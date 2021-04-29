@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+
+* {
+  font-family: Roboto thin, monospace;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+
+  color: #fff;
+  background-image: linear-gradient(to right, rgb(83, 105, 118), rgb(41, 46, 76));
+}
