@@ -12,6 +12,7 @@
 ## 💻 USABILIDADE | 📷 Screenshots 
 
 <img src="./Screenshots/Screenshot_1.jpg">
+<img src="./Screenshots/testing.gif">
 
 <hr>
 
